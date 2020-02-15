@@ -1,13 +1,13 @@
 # [Digital Clock] Custom date format for plasma-workspace v5.12.8
 
 [What day is it today?](https://ejje.weblio.jp/sentence/content/What+day+is+it+today%3F)
-![こんな感じでスクショを貼る](https://geeko.dev/makeshift/20191209_timerotor/nokorijikan.jpg)
+![2020/02/16](https://geeko.dev/one/2020/02/16/plasma-digital-clock/short-date.png)
 
 Toooo looong!
-![こんな感じでスクショを貼る](https://geeko.dev/makeshift/20191209_timerotor/nokorijikan.jpg)
+![2020年2月16日日曜日](https://geeko.dev/one/2020/02/16/plasma-digital-clock/long-date.png)
 
 :satisfied:
-![こんな感じでスクショを貼る](https://geeko.dev/makeshift/20191209_timerotor/nokorijikan.jpg)
+![2020/02/16(日)](https://geeko.dev/one/2020/02/16/plasma-digital-clock/custom-date.png)
 
 
 ## Installation on openSUSE Leap 15.1
@@ -19,7 +19,7 @@ Toooo looong!
 
 ## Installation on openSUSE Leap 15.2
 
-Nothing to be done for \`openSUSE Leap 15.2\`. :fu: :sob: :fu:
+Nothing to be done for \`openSUSE Leap 15.2'. :fu: :sob: :fu:
 
 
 ## A-HO!
